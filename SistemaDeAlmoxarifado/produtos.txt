@@ -1,0 +1,10 @@
+Sabão em pó,1
+Xicara,2
+Lampada,3
+Revista,4
+Livro X,5
+Caneta Azul,6
+Óleo,7
+Feijão,8
+Arroz,9
+Impressora,10
